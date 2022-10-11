@@ -11,6 +11,10 @@ h2 + p {
     list-style-type: none;
 }
 
-a:link {
+ul a:link {
     color: green;
+}
+
+ul a:visited{
+    color: red;
 }
