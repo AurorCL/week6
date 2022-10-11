@@ -10,3 +10,7 @@ h2 + p {
     border-bottom: 1px gray solid;
     list-style-type: none;
 }
+
+a:link {
+    color: green;
+}
