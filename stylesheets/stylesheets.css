@@ -27,3 +27,7 @@ li:first-child::first-letter {
     font-weight: bold; 
     font-size: 120%;
 }    
+
+a[title~=BCIT] {
+    background-color: yellow;
+}
