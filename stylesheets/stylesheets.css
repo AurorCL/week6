@@ -11,10 +11,14 @@ h2 + p {
     list-style-type: none;
 }
 
-ul a:link {
+li a:link {
     color: green;
 }
 
-ul a:visited{
+li a:visited{
     color: red;
+}
+
+li a:hover{
+    color: pink;
 }
